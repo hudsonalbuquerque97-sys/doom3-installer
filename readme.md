@@ -6,7 +6,7 @@
 [![Tested on Mint](https://img.shields.io/badge/tested-Linux%20Mint%2022.x-success.svg)](https://linuxmint.com/)
 [![Language](https://img.shields.io/badge/language-EN%20%7C%20PT--BR-blue.svg)](#)
 
-[English](#english) | [Português (Brasil)](#português-brasil)
+[English](#english) 🇺🇸 | [Português (Brasil)](#português-brasil) 🇧🇷
 
 ---
 
