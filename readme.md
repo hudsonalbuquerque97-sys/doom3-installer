@@ -8,7 +8,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 ![Gaming](https://img.shields.io/badge/Gaming-FF0000?style=for-the-badge&logo=steam&logoColor=white)
-![Quake](https://img.shields.io/badge/Quake%204-000000?style=for-the-badge&logo=gamepad&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PT-BR](https://img.shields.io/badge/PT--BR-009739?style=for-the-badge&logo=googletranslate&logoColor=white)
 ![EN](https://img.shields.io/badge/EN-012169?style=for-the-badge&logo=googletranslate&logoColor=white)
