@@ -1,12 +1,21 @@
-# dhewm3 (Doom 3) Installation Script
+# 🎮 Dhewm3 (Doom 3) Installation Script |  Dhewm3 (Doom 3) Script de instalação 🐧
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Shell Script](https://img.shields.io/badge/shell-bash-green.svg)](https://www.gnu.org/software/bash/)
-[![Tested on Ubuntu](https://img.shields.io/badge/tested-Ubuntu%2022.x-orange.svg)](https://ubuntu.com/)
-[![Tested on Mint](https://img.shields.io/badge/tested-Linux%20Mint%2022.x-success.svg)](https://linuxmint.com/)
-[![Language](https://img.shields.io/badge/language-EN%20%7C%20PT--BR-blue.svg)](#)
+<div align="center">
+
+   
+![Doom 3](https://img.shields.io/badge/Doom%203-8B0000?style=for-the-badge&logo=doom&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
+![Gaming](https://img.shields.io/badge/Gaming-FF0000?style=for-the-badge&logo=steam&logoColor=white)
+![Quake](https://img.shields.io/badge/Quake%204-000000?style=for-the-badge&logo=gamepad&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PT-BR](https://img.shields.io/badge/PT--BR-009739?style=for-the-badge&logo=googletranslate&logoColor=white)
+![EN](https://img.shields.io/badge/EN-012169?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 [English](#english) 🇺🇸 | [Português (Brasil)](#português-brasil) 🇧🇷
+
+</div>
 
 ---
 
